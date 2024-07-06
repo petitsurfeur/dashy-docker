@@ -1,3 +1,4 @@
 # Build and Release Folders
 .env
 config/
+dashy-data/
